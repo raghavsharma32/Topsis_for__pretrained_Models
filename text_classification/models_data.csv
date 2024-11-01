@@ -1,0 +1,6 @@
+Model ,Accuracy , Inference Time (s) , Memory Usage (MB)
+BERT , 0.92 , 0.1 , 400
+RoBERTa , 0.95 , 0.15 , 450
+DistilBERT , 0.89 , 0.05 , 200
+ALBERT , 0.91 , 0.12 , 300
+XLNet , 0.93 , 0.2 , 350
